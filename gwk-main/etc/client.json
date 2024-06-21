@@ -1,0 +1,11 @@
+{
+  "serverHost":"localhost",
+  "serverPort":4443,
+  "tunnels":{
+    "tcp001":{
+      "type":"tcp",
+      "localPort":5000,
+      "remotePort":7200
+    }
+  }
+}

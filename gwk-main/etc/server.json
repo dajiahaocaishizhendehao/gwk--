@@ -1,0 +1,9 @@
+{
+  "serverHost": "localhost",
+  "serverPort": 4443,
+  "httpAddr": 8080,
+  "httpsAddr": 8043,
+  "tlsCA":"./scripts/certs/rootCA.crt",
+  "tlsCrt":"./scripts/certs/gank007.com/my.crt",
+  "tlsKey":"./scripts/certs/gank007.com/my.key.pem"
+}
